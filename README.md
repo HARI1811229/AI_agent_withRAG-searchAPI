@@ -1,4 +1,4 @@
-# AI_agent_withRAG-searchAPI
+# AI_agent_withRAG_and_searchAPI
 
 🚀 Built a Simple AI Agent System! 🤖
 
